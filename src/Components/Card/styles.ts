@@ -13,8 +13,9 @@ export const Container = styled(TouchableOpacity)`
     border-width: 1px;
     border-radius: 5px;
     align-items: center;
-    padding-left: 12px;
-    padding-right: 16px;
+    /* padding-left: 12px;
+    padding-right: 16px; */
+    padding: 12px;
 
     margin-top: 4px;
     margin-bottom: 4px;

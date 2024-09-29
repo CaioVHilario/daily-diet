@@ -20,7 +20,7 @@ export const Container = styled.View <Props> `
     max-height: 100px;
     align-items: center;
     justify-content: center;
-`
+`;
 
 export const ButtonBack = styled(TouchableOpacity)`
     margin-left: 24px;
